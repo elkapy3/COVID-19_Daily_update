@@ -79,7 +79,14 @@ World Health Organization (WHO): https://www.who.int/
 
 Washington State Department of Health (DOH): https://www.doh.wa.gov
 
-Contact Email: 
-joel.kalonji@gmail.com
+Contact information  For questions or concerns please contact: covid19@healthdata.org  
+
+Institute for Health Metrics and Evaluation 
+
+2301 Fifth Ave., Suite 600  
+Seattle, WA 98121  USA  
+Telephone: +1-206-897-2800  
+Fax: +1-206-897-2899  
+www.healthdata.org 
 
 Terms and Conditions http://www.healthdata.org/about/terms-and-conditions 
