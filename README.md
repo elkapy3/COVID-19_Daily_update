@@ -1,5 +1,5 @@
-<a href="https://developers.libra.org">
-	<img width="200" src="./.assets/libra.png" alt="Libra Logo" />
+<a href="https://bcomnm.org">
+	<img width="200" src="https://bcomnm.org/wp-content/uploads/2020/03/covid19_v02_circle.png" alt="Covid Logo" />
 </a>
 
 
