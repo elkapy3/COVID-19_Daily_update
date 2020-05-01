@@ -1,8 +1,3 @@
-<a href="https://bcomnm.org">
-	<img width="200" src="https://bcomnm.org/wp-content/uploads/2020/03/covid19_v02_circle.png" alt="Covid Logo" />
-</a>
-
-
 # COVID-19_Daily_update
 This dataset capture the daily COVID-19 data across the world. This is a pull from different official data. 
 
