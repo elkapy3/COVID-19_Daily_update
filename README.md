@@ -1,3 +1,8 @@
+<a href="https://developers.libra.org">
+	<img width="200" src="./.assets/libra.png" alt="Libra Logo" />
+</a>
+
+
 # COVID-19_Daily_update
 This dataset capture the daily COVID-19 data across the world. This is a pull from different official data. 
 
