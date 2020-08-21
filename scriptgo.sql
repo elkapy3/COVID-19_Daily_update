@@ -1,4 +1,4 @@
-# notes: for the entire package the work fine
+/***** notes: for the entire package the work fine
 
 USE [esp]
 GO
