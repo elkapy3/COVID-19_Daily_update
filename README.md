@@ -1,5 +1,5 @@
 # COVID-19_Daily_update
-This dataset capture the daily COVID-19 data across the world. This is a pull from different official data. 
+This dataset capture the daily COVID-19 data across the world. The data sources are from different official websites. 
 
 Data Summary Dataset name: COVID-19 Hospital Needs and Death Projections 
 Summary: 
