@@ -9,20 +9,27 @@ IHME has produced forecasts which show hospital bed use, need for intensive care
 Suggested Citation: 
 
 Institute for Health Metrics and Evaluation (IHME). COVID-19 Hospital Needs and Death Projections. Seattle, United States of America: 
+
 Institute for Health Metrics and Evaluation (IHME), University of Washington, 2020. 
 
 Data Sources:
 
 Institute for Health Metrics and Evaluation (IHME) : https://covid19.healthdata.org/
+
 World Health Organization (WHO): https://www.who.int/
+
 Washington State Department of Health (DOH): https://www.doh.wa.gov
-Contact information  For questions or concerns please contact: covid19@healthdata.org  
-Institute for Health Metrics and Evaluation 
 
-2301 Fifth Ave., Suite 600  
-Seattle, WA 98121  USA  
-Telephone: +1-206-897-2800  
-Fax: +1-206-897-2899  
-www.healthdata.org 
+European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
 
-Terms and Conditions http://www.healthdata.org/about/terms-and-conditions 
+Johns Hopkins University: https://systems.jhu.edu/
+
+1Point3Arces: https://coronavirus.1point3acres.com/en
+
+Los Angeles Times: https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/
+
+The Mercury News: https://www.mercurynews.com/tag/coronavirus/
+
+CDC : https://www.cdc.gov/coronavirus/2019-ncov/index.html
+
+Institute for Health Metrics and Evaluation : http://www.healthdata.org/
