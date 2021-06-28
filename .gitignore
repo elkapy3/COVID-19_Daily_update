@@ -1,3 +1,5 @@
+#This will help ignore all the files that are not needed to be tracked. 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
